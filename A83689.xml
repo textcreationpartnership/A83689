@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the House of Commons, touching a late breach of their priviledges; and for the vindication thereof, and of divers members of the said house.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83689</idno>
+            <idno type="STC">Wing E2567A</idno>
+            <idno type="STC">ESTC R205383</idno>
+            <idno type="EEBO-CITATION">45097748</idno>
+            <idno type="OCLC">ocm 45097748</idno>
+            <idno type="VID">171341</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171341)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2571:55)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the House of Commons, touching a late breach of their priviledges; and for the vindication thereof, and of divers members of the said house.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>Elsynge, Henry, 1598-1654.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ioseph Hunscott.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Die Lunæ 17. Januarii. 1641 [i.e. 1642]. It is this day ordered, by the Commons assembled in Parliament, that this declaration shall be forthwith published in print. Hen. Elsing. cler. Parl. De Com."</note>
+                  <note>On the King's attempt to arrest the five members.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1641-1649.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:171341:1"/>
+            <head>A Declaration of the Houſe of Commons, touching a late Breach of their Priviledges; And for the Vindi<g ref="char:EOLhyphen"/>cation thereof, and of divers Members of the ſaid Houſe.</head>
+            <p>WHereas the Chambers, Studies, and Truncks, of Maſter <hi>Denzill Hollis,</hi> Sir <hi>Arthur Haſlerigg,</hi> Maſter <hi>John Pym,</hi> Maſter <hi>John Hampden,</hi> and Maſter <hi>William Strode</hi> Eſquires, Members of the Houſe of Commons, upon Munday the 3. of this inſtant <hi>January,</hi> by colour of His Majeſties Warrant have been ſealed up by Sir <hi>William Killigrew,</hi> and Sir <hi>William Flemen,</hi> and others, which is not only againſt the Priviledge of Parliament, but the Common Liberty of every Subject: Which ſaid Members afterwards, the ſame day were under the like colour, by Serjeant <hi>Francis,</hi> one of His Majeſties Serjeants at Arms, contrary to all former Preſidents demanded of the Speaker ſitting in the Houſe of Commons, to be delivered unto him, that he might Arreſt them of high Treaſon. And whereas, afterwards the next day His Majeſty in His Royall Perſon, came to the ſaid Houſe attended with a great multitude of men armed in warlike manner, with Halberts, Swords, and Piſtolls, who came up to the very door of the houſe, and placed themſelves there, and in other places, and paſſages neer to the ſaid houſe, to the great terrour and diſtur<g ref="char:EOLhyphen"/>bance of the Members then ſitting; and according to their duty in a peaceable, and orderly manner, treating of the great affairs of <hi>England,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land.</hi> And his Majeſtie having placed himſelf in the Speakers Chair, demanded of them the Perſons of the ſaid Members to be delivered unto him, which is a high Breach of the Rights, and Priviledges of Parliament and Inconſiſtent with the Liberties, and Freedom thereof. And whereas afterwards his Majeſtie did iſſue forth ſeverall Warrants to divers Officers, under his own hand, for the apprehenſion of the Perſons of the ſaid Mem<g ref="char:EOLhyphen"/>bers, which by Law he cannot do; there being not all this time, any Legall charge or accuſation, or due Proceſſe of Law iſſued againſt them, nor any pretence of charge made known to that Houſe; all which are againſt the Fundamentall Liberties of the Subject, and the Rights of Parliament. Whereupon we are neceſſitated, according to our duty, to declare? And we do hereby declare that if any Perſon ſhall Arreſt M. <hi>Hollis,</hi> Sir <hi>Arthur Haſlerigg,</hi> M. <hi>Pym,</hi> M. <hi>Hampden,</hi> and M. <hi>Strode,</hi> or any of them, or any other Member of Parliament, by pretence or colour of any Warrant iſſuing out from the King only, is guilty of the Breach of the Liberties of the Subject, and of the Priviledge of Parliament, and a publike enemy to the Common-wealth. And that the Arreſting of the ſaid Members, or any of them, or of any other Member of Parliament, by any Warrant what<g ref="char:EOLhyphen"/>ſoever, without a legall Proceeding againſt them, and without conſent of that Houſe, whereof ſuch Perſon is a Member, is againſt the liberty of the Subject, and a Breach of Priviledge of Parliament; And the Perſon which ſhall Arreſt any of theſe Perſons, or any other Member of the Parliament, is declared a publike enemy of the Common-wealth. Notwithſtanding all which we think fit, further to declare that we are ſo farre from any endeavours to protect any of our Members, that ſhall be in due manner proſecuted according to the Laws of the Kingdom, and the Rights and Priviledges of Parliament for Treaſon, or any other miſdemeanours, That none ſhall be more ready and willing then we our ſelves, to bring them to a ſpeedy, and due tryall, being ſenſible that it equally imports us, as well to ſee Juſtice done againſt them that are Crimi<g ref="char:EOLhyphen"/>nous, as to defend the juſt Rights and Liberties of the Subjects, and Parliament of <hi>England.</hi>
+            </p>
+            <p>And whereas upon ſeverall examinations taken the 7. day of this inſtant <hi>January,</hi> before the Committee appointed by the Houſe of Commons, to ſit in <hi>London,</hi> it did fully appear, that many ſouldiers, Papiſts, and others, to the number of about 500. came with His Majeſty on Tueſday laſt, to the ſaid Houſe of Commons, armed with Swords, Piſtolls, and other Weapons; and divers of them preſſed to the door of the ſaid Houſe, thruſt away the door Keepers, and placed themſelves, between the ſaid door and the ordinary attendants of his Majeſty; holding up their Swords, and ſome holding up their Piſtolls ready cock'd neer the ſaid door; and ſaying, I am a good Markſman, I can hit right I warrant you, and they not ſuffering the ſaid door, according to the cuſtome of Parliament to be ſhut, but ſaid they would have the door open, and if any oppoſition were againſt them, they made no queſtion, but they ſhould make their party good, and that they would maintain their party; and when ſeverall Members of the Houſe of Commons were coming into the houſe, their attendants deſiring that Room might be made for them, ſome of the ſaid Souldiers anſwered, A Pox of God confound them, and others ſaid, A Pox take the houſe of Commons, let them come and be hanged, what a do is here with the houſe of Commons; and ſome of the ſaid Souldiers did likewiſe violently aſſault, and by force diſarme ſome of the Atten<g ref="char:EOLhyphen"/>dants, and ſervants of the Members of the houſe of Commons, waiting in the Room next the ſaid houſe, and upon the Kings return out of the ſaid houſe, many of them by wicked oathes, and otherwiſe, expreſſed much diſcontent, that ſome Members of the ſaid houſe, for whom they came were not there, and others of them ſaid, when comes the word, and no word being given at his Majeſties coming out, they cryed a lane, a lane; afterwards ſome of them being demanded, what they thought the ſaid company intended to have done, anſwered, That queſtionleſſe in the poſture they were ſet, if the word had been given, they ſhould have fallen upon the houſe of Commons, and have cut all their throats. Up<g ref="char:EOLhyphen"/>on all which we are of opinion, that it is ſufficiently proved, that the coming of the ſaid Souldiers, Papiſts, and others with his Majeſty to the houſe of Commons on Tueſday laſt, being the fourth of this inſtant <hi>January,</hi> in the manner aforeſaid, was to take away ſome of the Members of the ſaid houſe; and if they ſhould have found oppoſition, or denyall, then to have fallen upon the ſaid houſe in a hoſtile manner, And we do hereby declare that the ſame was a traiterous deſigne againſt the King and Parliament. And whereas the ſaid M. <hi>Hollis,</hi> Sir <hi>Arthur Haſlerigg,</hi> M. <hi>Pym,</hi> M. <hi>Hampden,</hi> and M. <hi>Strode,</hi> upon report of the coming of the ſaid Souldiers, Papiſts, and others in the warlike and hoſtile manner, aforeſaid, did with the approbation of the houſe abſent themſelves from the ſervice of the houſe, for avoiding the great, and many inconveniences, which otherwiſe apparantly might have hapned: Since which time a printed paper in the form of a Proclamation, bearing date the ſixth day of this in<g ref="char:EOLhyphen"/>ſtant <hi>January,</hi> hath iſſued out for the apprehending, and impriſoning of them, Therein ſuggeſting that through the conſcience of their own guilt, they were abſent and fled not willing to ſubmit themſelves to Juſtice; We do further declare that the ſaid printed paper is falſe, ſcandalous and illegall, and that notwithſtanding the ſaid printed paper, or any warrant iſſued out, or any other matter yet appearing againſt them; or any of them, they may and ought to attend the ſervice of the ſaid houſe of Commons, and the ſeverall Committees now on foot, And that it is law<g ref="char:EOLhyphen"/>full for all perſons whatſoever to lodge, harbour or converſe with them, or any of them; And whoſoever ſhall be queſtioned for the ſame, ſhall be under the protection and priviledge of Parliament.</p>
+            <p>And we do further declare, That the publiſhing of ſeverall Articles purporting a form of a charge of high Treaſon againſt the Lord <hi>Kimbolton,</hi> one of the Members of the Lords houſe, and againſt the ſaid, <hi>M. Hollis, Sir Arthur Haſlerigg, M. Pym, M. Hampden,</hi> and <hi>M. Strode,</hi> by Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Killigrew,</hi> Sir <hi>William Flemen,</hi> and others in the Innos of Court, and elſewhere in the Kings Name, was a high Breach of the Priviledge of Parliament, a great ſcandall to his Majeſtie and his Government: A ſeditious Act manifeſtly tending to the ſubverſion of the Peace of the King<g ref="char:EOLhyphen"/>dom, and an injury, and diſhonour to the ſaid Members, there being no legall charge or accuſation againſt them.</p>
+            <p>That the priviledges of Parliament, and the liberties of the Subject ſo violated and broken, cannot be fully and ſufficiently vindicated, unleſſe his Majeſty will be gratiouſly pleaſed, to diſcover the names of thoſe perſons, who adviſed his Majeſty to iſſue out Warrants, for the ſealing of the Chambers, and Studies of the ſaid members, to ſend a Serjeant at Arms to the houſe of Commons, to demand their ſaid Members, to iſſue out ſeverall Warrants under his Majeſties own hand, to apprehend the ſaid members. His Maieſties coming thither, in his own Royall Perſon. The publiſhing of the ſaid Articles, and printed paper in the form of a Proclamation againſt the ſaid Members in ſuch manner as is before declared; To the end that ſuch perſons may receive condigne puniſhment.</p>
+            <p>
+               <hi>And this houſe doth further declare, That all ſuch perſons as have given any Councell, or endeavoured to ſet or maintain diviſion or diſlike, between the King and Parliament, or have liſted their names, or otherwiſe entred into any combination or agreement, to be ayding, or aſsiſting, to any ſuch councell or endeavour, or have perſwaded any other ſo to do, or that ſhall do any the things above mentioned; And ſhall not forthwith diſcover the ſame to either houſe of Parliament: Or the Speaker of either of the ſaid houſes reſpectively, and diſclaim it, are declared publike enemies of the State and Peace of this Kingdome, and ſhall be inquired of, and proceeded againſt accordingly.</hi>
+            </p>
+         </div>
+         <div type="Parliamentary_order">
+            <opener>
+               <date>
+                  <hi>Die Lunae</hi> 17. <hi>Januarii.</hi> 1641.</date>
+            </opener>
+            <p>It is this day ordered, By the Commons Aſſembled in Parliament, that this Declaration ſhall be forthwith publiſhed in Print.</p>
+            <closer>
+               <signed>Hen. Elſing. Cler. Parl. De Com.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Ioſeph Hunſcott.</hi> 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
